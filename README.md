@@ -1,0 +1,2 @@
+# Hospital-Queue-System
+Hospital Queue System using Priority Queue. In our priority queue model we will ask for basic details of the patient like name , contact details, age, blood group and gender , then we will ask the patient about its condition, by giving 3 options. After confirming the category we will compare the patient's condition with the patients in the existing queue and will be given a suitable place in the queue according to the category selected.
